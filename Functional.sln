@@ -38,6 +38,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functional.AsyncEnumerables
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functional.All.NetStandard2", "Functional.All.NetStandard2\Functional.All.NetStandard2.csproj", "{09BA504B-31DC-4FB4-A7DF-1575F1F28FA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functional.Fluent", "Functional.Fluent\Functional.Fluent.csproj", "{865D28C2-7D31-49BE-A303-2847C415E7C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{09BA504B-31DC-4FB4-A7DF-1575F1F28FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09BA504B-31DC-4FB4-A7DF-1575F1F28FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09BA504B-31DC-4FB4-A7DF-1575F1F28FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{865D28C2-7D31-49BE-A303-2847C415E7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865D28C2-7D31-49BE-A303-2847C415E7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865D28C2-7D31-49BE-A303-2847C415E7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865D28C2-7D31-49BE-A303-2847C415E7C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
